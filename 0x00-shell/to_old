@@ -1,0 +1,2 @@
+rename the file old_school to new_school (in the same directory)
+mv old_school new_school
