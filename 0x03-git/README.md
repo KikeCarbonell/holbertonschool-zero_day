@@ -2,7 +2,7 @@
 
 ![imagen](https://miro.medium.com/v2/resize:fit:1400/0*PrVXsTlI3uZE89jO.png)
 
-## Resources
+## Resources.
 
 ### Read or watch:
 
