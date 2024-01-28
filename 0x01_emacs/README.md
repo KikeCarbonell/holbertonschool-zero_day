@@ -1,6 +1,6 @@
 # 0x01. Emacs
 
-![imagen](https://w7.pngwing.com/pngs/228/946/png-transparent-purple-symbol-emacs-purple-violet-logo-thumbnail.png)
+![imagen](https://emacs-jp.github.io/images/9407a43e-a53d-4ca5-9015-c6c8991395bf.png)
 
 ## Resources
 
