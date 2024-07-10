@@ -1,2 +1,5 @@
-create a directory school_is_amazing
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, crea un directorio school_is_amazing
 mkdir school_is_amazing
