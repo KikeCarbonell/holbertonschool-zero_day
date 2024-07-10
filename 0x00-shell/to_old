@@ -1,2 +1,5 @@
-rename the file old_school to new_school (in the same directory)
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, cambie el nombre del archivo old_school por new_school (en el mismo directorio)
 mv old_school new_school
