@@ -1,2 +1,5 @@
-copy the file school to /tmp
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, copia el archivo school en /tmp
 cp school /tmp
