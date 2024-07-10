@@ -1,2 +1,5 @@
-delete the file ready_to_be_removed
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, elimine el archivo ready_to_be_removed
 rm ready_to_be_removed
