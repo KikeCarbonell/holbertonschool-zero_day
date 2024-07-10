@@ -1,2 +1,5 @@
-remove the directory empty_drectory
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, elimine el directorio empty_directory
 rmdir empty_directory
