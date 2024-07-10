@@ -1,2 +1,5 @@
-create an empty file so_cool
+- Cambia tu directorio de trabajo a /root
+cd /root
+
+- A continuación, cree un archivo vacío so_cool
 touch so_cool
