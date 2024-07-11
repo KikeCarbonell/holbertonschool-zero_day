@@ -1,0 +1,2 @@
+Navigate to /root and create a directory named 0x01_emacs
+cd /root | mkdir 0x01_emacs
